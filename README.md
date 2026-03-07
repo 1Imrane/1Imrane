@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=ff3333&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+things+that+shouldn%27t+exist...;Dark+mode+or+no+mode;My+code+works.+I+don%27t+know+why." alt="Typing SVG" />
 
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0000,50:8B0000,100:0d0000&height=3&animation=twinkling">
