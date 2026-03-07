@@ -15,7 +15,7 @@ const imrane = {
   alias:       "Imrane ≺ℨ",
   role:        "Full Stack Developer",
   based:       "Morocco 🇲🇦",
-  status:      "Building stuff that breaks in production 💀",
+  status:      "Building stuff that breaks in production ",
 
   stack: {
     frontend:  ["React", "Next.js", "TypeScript", "Tailwind"],
